@@ -48,9 +48,9 @@ const About: React.FC = () => {
                 <GraduationCapIcon /> Educational Journey
             </h3>
             <div className="max-w-3xl mx-auto">
-              <TimelineItem title="M.Ch Neurosurgery" institution="Osmania Medical College, Hyderabad" year="2025 (Exp.)" />
-              <TimelineItem title="M.S General Surgery" institution="Sidhartha Medical College, Vijayawada" year="2021" />
-              <TimelineItem title="MBBS" institution="Guntur Medical College, Guntur" year="2016" />
+              <TimelineItem title="M.Ch Neurosurgery" institution="SAWAI MANN SINGH MEDICAL COLLEGE, JAIPUR, RAJASTHAN" year="2025" />
+              <TimelineItem title="M.S General Surgery" institution="ALLURI SITA RAMA RAJU ACADEMY OF MEDICAL SCIENCES, ELURU, AP" year="2021" />
+              <TimelineItem title="MBBS" institution="KONASEEMA INSTITUTE OF MEDICAL SCIENCES, AMALAPURAM, ANDHRA PRADESH " year="2018" />
             </div>
         </div>
       </div>
