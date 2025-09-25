@@ -24,7 +24,7 @@ const About: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 items-center">
           <div className="md:col-span-1 flex justify-center">
             <img 
-              src="https://picsum.photos/id/1005/400/400" 
+              src="https://res.cloudinary.com/dwkbbwquz/image/upload/v1758778601/photo_a8jjqt.jpg" 
               alt="Dr. Mannam Jagadeesh Kumar" 
               className="rounded-full w-64 h-64 md:w-80 md:h-80 object-cover border-4 border-cyan-500 shadow-lg shadow-cyan-500/20"
             />
